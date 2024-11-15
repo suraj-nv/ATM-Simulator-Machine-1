@@ -1,0 +1,2 @@
+# ATM-Simulator-Machine
+ • Developed an ATM simulator application to mimic the functionalities of a real-world ATM, allowing users to perform banking transactions such as withdrawals, deposits, and balance inquiries,mini statement. • Designed and implemented the user interface using Java Swing for a responsive, interactive experience. • Handled backend transactions with JDBC for secure and efficient database connectivity. • Ensured data integrity and transaction security by implementing validation and error-handling mechanisms
